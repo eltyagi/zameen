@@ -1,0 +1,84 @@
+.homepage{
+    width: 100%;
+    height: 100vh;
+    font-family: overlock;
+}
+
+.dashboard-header{
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.hr-line{
+    border-bottom: 1px solid rgb(195, 195, 195);
+    width: 100%;
+}
+
+.header-text{
+    font-size: 35px;
+}
+
+.header-sub-text{
+    font-size: 25px;
+    color: #737373;
+}
+
+.row-1{
+    width: 90vw;
+    height: 55vh;
+    display: flex;
+}
+
+.overview-view{
+    width: 35vw;
+    height: 55vh;
+    margin-left: 20px;
+}
+
+.view-title{
+    font-size: 35px;
+}
+
+.blocks{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block-1, .block-2{
+    width: 200px;
+    height: 200px;
+    border: 1px #737373 solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.block-3{
+    width: 415px;
+    height: 200px;
+    border: 1px #737373 solid;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.table-1{
+    width: 777px;
+    height: 412px;
+    border: 1px solid #737373;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.row-2{
+    width: 90vw;
+    height: 20vh;
+    margin: 20px;
+}
+
+.table-2{
+    width: 87vw;
+    height: 20vh;
+    border: 1px solid #737373;
+    border-radius: 10px;
+}
+
